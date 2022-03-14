@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jagadish077
+- 👋 Hi, I’m @Jagadish
 - 👀 I’m interested in #coding, #programming
 - 🌱 I’m currently learning Master Of Computer Applications.
 - 💞️ I’m looking to collaborate on -
